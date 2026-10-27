@@ -1,0 +1,11 @@
+[
+  {
+    "file": "lsp/DLX.lsp",
+    "commands": [
+      "DLX"
+    ],
+    "title": "線性尺寸接續標註",
+    "category": "尺寸與註解",
+    "manual": "README.md"
+  }
+]

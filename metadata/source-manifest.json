@@ -1,0 +1,19 @@
+{
+  "snapshot_date": "2026-10-27",
+  "scope": "One independent LISP tool; original bytes preserved",
+  "files": [
+    {
+      "path": "lsp/DLX.lsp",
+      "bytes": 5369,
+      "sha256": "be9416b476aa6974bdf97092732b5a714885aac7673378ea400bb25544590267",
+      "encoding": "utf-8",
+      "bom": false,
+      "commands": [
+        {
+          "name": "DLX",
+          "line": 149
+        }
+      ]
+    }
+  ]
+}
